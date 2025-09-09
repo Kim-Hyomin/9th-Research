@@ -5,7 +5,7 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week1_김효민](url)
+- [📚Week1_김효민](https://github.com/Ewha-Euron/9th-Research/issues/5#issue-3396461863)
 ---
 
 ## 💚우수 과제💚
